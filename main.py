@@ -1,8 +1,4 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-movies_df = pd.read_csv('Movies_dataset.csv')
+pass
 
 
 # describing the data set

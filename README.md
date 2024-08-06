@@ -2,4 +2,4 @@
 
 This is a GitHub repository for UCL ARC Research Data Stewards to come together to discuss and practice coding.
 
-Going through [this course](https://moodle.ucl.ac.uk/mod/page/view.php?id=5734979).
+Please upload anything we go through in the Tuesday Coding group or feel free to use this repo to practise on. Nothing breakable here! 
